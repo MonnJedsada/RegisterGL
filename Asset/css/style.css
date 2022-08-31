@@ -1,0 +1,112 @@
+.backtone{
+    background-color:  #1E1E1E;
+    color: rgba(240, 248, 255, 0.842);
+}
+
+/* navbar */
+/* .bg-dark{
+    background:  #1E1E1E;
+}
+.bg-alpha{
+    background: #1E1E1E;
+} */
+
+/* Section Page-title */
+.page-title{
+    position:relative;
+    display: block;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    color: #fff;
+    
+    
+}
+
+/* Footer */
+.semi-footer{
+    background-color: #fef6e6;
+    color: #fff;
+}
+.semi-footer a{
+    color: #ff7f00;
+}
+.semi-footer p{
+    color: #ff7f00;
+}
+.semi-footer h3{
+    color: #ff7f00;
+}
+.semi-footer h4{
+    color: #ff7f00;
+    border-bottom: 1px solid;
+}
+
+.endline{
+    background: #fff;
+    color: #1E1E1E;
+    font-size: 1rem;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+/* picblog */
+    .img-thumbnail{
+        width: 200px;
+        height: 100px;
+    }
+
+
+.txtthank{
+    color: #3d3d3d;
+}
+
+/* Section On to Top*/
+
+.to-top {
+    position: fixed;
+    bottom: 2%;
+    right: 2%;
+    width: 40px;
+    height: 40px;
+    background: #ff7f00;
+    color: #fff;
+    z-index: 9999;
+    border-radius: 50%;
+    font-size: 25px;
+    cursor: pointer;
+    text-align: center;
+}
+
+.to-top:hover {
+    color: #fff;
+    background: #927212;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #ff7f00;
+    border-color: #ff7f00;
+}
+/* #58291a */
+
+.navbar-custom {
+    background-color: #ff7f00;
+}
+/* change the brand and text color */
+.navbar-custom .navbar-brand,
+.navbar-custom .navbar-text {
+    color: #ff7f00;
+}
+/* change the link color */
+.navbar-custom .navbar-nav .nav-link {
+    color: #ff7f00;
+}
+/* change the color of active or hovered links */
+.navbar-custom .nav-item.active .nav-link,
+.navbar-custom .nav-item:hover .nav-link {
+    color: #ff7f00;
+}
